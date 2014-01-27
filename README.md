@@ -1,4 +1,4 @@
 ZenWArch
 ========
 
-This project changed to [Tekton](https://github.com/renzon/)
+This project changed to [Tekton](https://github.com/renzon/tekton)
